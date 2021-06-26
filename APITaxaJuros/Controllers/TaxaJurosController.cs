@@ -29,7 +29,7 @@ namespace APITaxaJuros.Controllers
         /// </summary>
         /// <returns>Taxa de juros</returns>
         [HttpGet]
-        public ActionResult<double> getTaxaJuros()
+        public ActionResult<string> getTaxaJuros()
         {
             return _taxaJurosRepository.Get().Juros;
         }

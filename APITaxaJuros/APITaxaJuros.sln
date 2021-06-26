@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APITaxaJuros", "APITaxaJuro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITaxaJurosTest", "..\APITaxaJurosTest\APITaxaJurosTest.csproj", "{6A025EEA-029A-4D2F-9D4D-8C444E8549F7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICalculaJuros", "..\APICalculaJuros\APICalculaJuros.csproj", "{F8FBEB07-4A75-437D-A352-477359C7ACEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalculaJurosTest", "..\APICalculaJurosTest\APICalculaJurosTest.csproj", "{98A3FFB2-3801-455E-91DA-1D7B90B399B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6A025EEA-029A-4D2F-9D4D-8C444E8549F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A025EEA-029A-4D2F-9D4D-8C444E8549F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A025EEA-029A-4D2F-9D4D-8C444E8549F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FBEB07-4A75-437D-A352-477359C7ACEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FBEB07-4A75-437D-A352-477359C7ACEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FBEB07-4A75-437D-A352-477359C7ACEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FBEB07-4A75-437D-A352-477359C7ACEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A3FFB2-3801-455E-91DA-1D7B90B399B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A3FFB2-3801-455E-91DA-1D7B90B399B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A3FFB2-3801-455E-91DA-1D7B90B399B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A3FFB2-3801-455E-91DA-1D7B90B399B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

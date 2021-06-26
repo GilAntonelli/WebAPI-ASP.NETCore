@@ -10,14 +10,14 @@ namespace APITaxaJuros.Models
     /// </summary>
     public class TaxaJuros
     {
-        public double Juros { get; private set; }
+        public string Juros { get; private set; }
 
         /// <summary>
         /// Construtor padrão da classe
         /// </summary>
         public TaxaJuros()
         { 
-            this.Juros = 0.01;
+            this.Juros = "0,01";
         }       
     }
 }

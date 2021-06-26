@@ -34,7 +34,7 @@ namespace APITaxaJurosTest
         public void TesteRetornoController()
         {            
             var okResult = _taxaJurosController.getTaxaJuros();            
-            Assert.IsType<ActionResult<double>>(okResult);
+            Assert.IsType<ActionResult<string>>(okResult);
         }
 
         /// <summary>
@@ -44,7 +44,7 @@ namespace APITaxaJurosTest
         public void TesteValorTaxaDeJuros()
         {            
             var okResult = _taxaJurosController.getTaxaJuros();
-            Assert.Equal(okResult.Value.ToString(), "0,01".ToString());
+            Assert.Equal(okResult.Value, "0,01".ToString());
         }
     }
 }
