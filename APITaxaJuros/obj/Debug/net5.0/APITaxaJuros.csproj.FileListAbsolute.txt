@@ -11,7 +11,6 @@ E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\Microsoft.Open
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.csprojAssemblyReference.cache
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.GeneratedMSBuildEditorConfig.editorconfig
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.AssemblyInfoInputs.cache
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.AssemblyInfo.cs
@@ -27,3 +26,4 @@ E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.d
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\ref\APITaxaJuros.dll
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.pdb
 E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.genruntimeconfig.cache
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\obj\Debug\net5.0\APITaxaJuros.csproj.AssemblyReference.cache

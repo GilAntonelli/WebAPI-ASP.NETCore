@@ -1,0 +1,11 @@
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\APITaxaJuros.exe
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\appsettings.Development.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\appsettings.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\APITaxaJuros.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\APITaxaJuros.deps.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\APITaxaJuros.runtimeconfig.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\APITaxaJuros.pdb
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APITaxaJuros\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

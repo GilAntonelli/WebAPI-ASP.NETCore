@@ -1,0 +1,6 @@
+FROM microsoft/dotnet:5.0.0-preview1
+RUN mkdir /app
+WORKDIR /app
+COPY bin/Debug/net5.0/publish /app/
+EXPOSE 5000/tcp
+ENTRYPOINT dotnet /app/APICalculaJuros.dll

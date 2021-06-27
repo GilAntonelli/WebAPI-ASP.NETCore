@@ -20,8 +20,10 @@ namespace APICalculaJuros.Models
         /// <returns>Valor acrecido de juros compostos</returns>
         public string ObtenhaValorAcrescentandoJurosCompostos(decimal valorInicial, int meses, double juros)
         {
-            var valorFinal = (double)valorInicial * Math.Pow(1 + juros, (meses));                      
-            valorFinal = Math.Truncate(valorFinal * 100) / 100;
+            var precisao = 100;
+            var valor = (int)valorInicial * precisao;                                               
+            var valorFinal = valor * Math.Pow(1 + juros, (meses));                         
+            valorFinal = valorFinal / precisao;            
             var culturaAtual = (NumberFormatInfo)NumberFormatInfo.CurrentInfo.Clone();
             culturaAtual.NumberDecimalDigits = 2;
             return valorFinal.ToString("N", culturaAtual);

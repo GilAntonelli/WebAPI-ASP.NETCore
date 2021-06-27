@@ -1,0 +1,11 @@
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\APICalculaJuros.exe
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\appsettings.Development.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\appsettings.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\APICalculaJuros.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\APICalculaJuros.deps.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\APICalculaJuros.runtimeconfig.json
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\APICalculaJuros.pdb
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MEUS_PROJETOS\WebAPI-ASP.NETCore\APICalculaJuros\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -41,6 +41,18 @@ namespace APICalculaJurosTest
 
             okResult = _CalculadoraJurosController.GetCalculoJurosCompostos(50, 8);
             Assert.Equal(okResult.Value, "54,14".ToString());
+
+            okResult = _CalculadoraJurosController.GetCalculoJurosCompostos(880, 12);
+            Assert.Equal(okResult.Value, "991,61".ToString());
+
+            okResult = _CalculadoraJurosController.GetCalculoJurosCompostos(10240, 12);
+            Assert.Equal(okResult.Value, "11.538,69".ToString());
+
+            okResult = _CalculadoraJurosController.GetCalculoJurosCompostos(164, 36);
+            Assert.Equal(okResult.Value, "234,65".ToString());
+
+            okResult = _CalculadoraJurosController.GetCalculoJurosCompostos(57400, 60);
+            Assert.Equal(okResult.Value, "104.278,39".ToString());
         }
     }
 }
